@@ -127,6 +127,7 @@ G gg H M L k j ▶  print("to")
 `:w` new.txt              | 写入`new.txt`
 `:sav` new.txt            | 保存并编辑`new.txt`
 `:w` !sudo tee %          | 写入只读文件
+`:set fenc=gbk`           | 设置保存文件时使用编码gbk来储存
 <!--rehype:className=shortcuts-->
 
 ### 正常模式
